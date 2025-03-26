@@ -1,0 +1,31 @@
+{
+    //example student
+    "JaneDoe":{
+        "username":"@janedoe",
+        "displayname":"Jane Doe",
+        "tokenID":"0001",
+        "courses_taken":[
+            "MA Foundations",
+            "MA for Large Scale Building",
+            "MA Expertise",
+            "CC Foundations",
+            "PM Foundations",
+            "PM for Design Engineering",
+            "Accessibility & Inclusivity",
+            "CV2 Circuitry",
+            "Interactive Game Design",
+            "RR Art",
+            "Story & Game Design"
+        ],
+        "accreditations_earned":[
+            "Large Scale Building Specialist",
+            "Makerpen & Animation Expert",
+            "Design Engineering Specialist",
+            "Accessibility & Inclusivity Specialist",
+            "CV2 Specialist",
+            "Interactive Game Design Specialist",
+            "Story & Game Design Specialist"
+        ],
+        "notation":"No major infractions in the last 30 days."
+    }
+}
