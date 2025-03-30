@@ -261,7 +261,7 @@ var jsonroot = {
         CC_Foundations:{
             title:"CC Foundations",
             code:"1CC",
-            desc:"Content Creation Foundations is a fundimental course focused in teaching students the essential skills and knowlage needed for content creation in RR. ",
+            desc:"~",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Content Creation</span>",
             prereq:"~",
             succeeding:"<span class='courseTitleRef'>CC for Channel Management</span> or <span class='courseTitleRef'>CC for Marketing</span>",
