@@ -14,7 +14,7 @@
     padding: 0;
 }
 
-section.warningSection {
+*#ContentCreation section.warningSection {
     height: 20vh;
     width: 95%;
     margin: 5px;
