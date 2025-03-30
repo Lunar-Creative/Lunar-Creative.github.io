@@ -18,6 +18,7 @@
     height: 20vh;
     width: 95%;
     margin: 5px;
+    padding: 5px;
     background-color: var(--palette-brine);
     border: 1vw solid var(--palette-darkblue);
     border-radius: 20px;
