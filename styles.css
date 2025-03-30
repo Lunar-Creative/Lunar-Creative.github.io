@@ -14,6 +14,15 @@
     padding: 0;
 }
 
+section.warningSection {
+    height: 20vh;
+    width: 95%;
+    margin: 5px;
+    background-color: var(--palette-brine);
+    border: 2vw solid var(--palette-darkblue);
+    color: var(--palette-tawny);
+}
+
 a {color: inherit; text-decoration: none;}
 a.highlightedA {text-decoration: underline;}
 
