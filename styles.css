@@ -349,6 +349,7 @@ ul.miniTitleList > li {
 .left-split {width: 25%;}
 .right-split {width: 75%;}
 .left-split hr, .right-split hr {display: block; margin: 7px auto 2px auto;}
+.left-split-alt, .right-split-alt {width: 50%;}
 
 .mobileText {display: none; font-size: small;}
 
