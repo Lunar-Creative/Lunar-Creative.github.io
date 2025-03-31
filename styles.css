@@ -347,7 +347,6 @@ ul.miniTitleList > li {
 .split-port {
     display: flex;
 }
-.split-port > * {margin: 15px;}
 .left-split {width: 25%;}
 .right-split {width: 75%;}
 .left-split hr, .right-split hr {display: block; margin: 7px auto 2px auto;}
