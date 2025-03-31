@@ -249,6 +249,8 @@ var jsonroot = {
             succeeding:"~",
             accreditations:"<span class='cert-accreditationsRef'>Makerpen & Animation Expert</span> <span class='cert-accreditationsRef'>Makerpen & Animation Ready-For-Work</span>"
         }, 
+        //! Content Creation category is disabled untill further notice.
+        //- According changes made
         Micro_CC:{
             title:"Micro-CC",
             code:"0CC",
@@ -324,7 +326,7 @@ var jsonroot = {
         PM_for_Team_Supervision:{
             title:"PM for Team Supervision",
             code:"2aPM",
-            desc:"~",
+            desc:"Project Management for Team Supervision is a smaller course focused in teaching the primary skill of management in projects and teams. Students may want to lead creative teams, build massive companies, or just have the skill on the side. No matter your reason, this course will teach.<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Supervision</span>: Students learn how to manage environments to ensure the project at hand is completed</li><li><span class='sectionMiniTitle'>Leading</span>: Students learn how to lead in their goals</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span>",
             prereq:"<span class='courseTitleRef'>PM Foundations</span>",
             succeeding:"<span class='courseTitleRef'>PM Expertise</span> or <span class='courseTitleRef'>Post-PM</span>",

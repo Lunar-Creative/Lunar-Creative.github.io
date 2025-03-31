@@ -15,7 +15,8 @@
     "JaneDoe":{
         "username":"@janedoe",
         "displayname":"Jane Doe",
-        "tokenID":"0001",//Invalid: example
+        "tokenID":"0001",//         Invalid: example
+        "join_date":"01/01/25",//   dd/mm/yy
         "courses_taken":[
             "MA Foundations",
             "MA for Large Scale Building",
