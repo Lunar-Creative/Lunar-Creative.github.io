@@ -346,13 +346,13 @@ ul.miniTitleList > li {
 
 .split-port {
     display: flex;
-    justify-content: space-between;
 }
 .split-port > * {margin: 15px;}
 .left-split {width: 25%;}
 .right-split {width: 75%;}
 .left-split hr, .right-split hr {display: block; margin: 7px auto 2px auto;}
 .left-split-alt, .right-split-alt {width: 48%;}
+.split-port > .left-split-alt, .split-port > .right-split-alt {margin: 15px !important;}
 
 .mobileText {display: none; font-size: small;}
 
