@@ -1,9 +1,21 @@
 {
+    "number_of_students"/*Not Including Examples*/:0,
+    "infractions_statistics":{
+        "minor_in_30days":0,
+        "major_in_30days":0,
+        "major_in_90days":0,
+        "major_in_lifetime":0
+    },
+    "global_data":{
+        "enrolled_in_lifetime":0,
+        "graduated_in_lifetime":0,
+        "expelled_in_lifetime":0
+    },
     //example student
     "JaneDoe":{
         "username":"@janedoe",
         "displayname":"Jane Doe",
-        "tokenID":"0001",
+        "tokenID":"0001",//Invalid: example
         "courses_taken":[
             "MA Foundations",
             "MA for Large Scale Building",

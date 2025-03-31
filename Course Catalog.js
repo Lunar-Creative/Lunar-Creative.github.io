@@ -306,7 +306,7 @@ var jsonroot = {
         Micro_PM:{
             title:"Micro-PM",
             code:"0PM",
-            desc:"~",
+            desc:"<b>This course is in a limited/beta state!</b> Micro Project Management gives students a look into all parts of the project management category, providing a well-rounded selection of skills for the student to learn. From your first prototype to designing a whole city, this course offers many skills.<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Planning & Roadmapping</span>: Students learn how to build roadmaps and plan their builds and projects.</li><li><span class='sectionMiniTitle'>Prototyping</span>: Students learn how to create a prototype for their projects, allowing them to visualise their builds.</li><li><span class='sectionMiniTitle'>Team Supervision</span>: Students learn how to operate in the position of direction for the project, as well as how to ensure the project isn't de-railed.</li><li><span class='sectionMiniTitle'>Design Engieering</span>: Students learn how to build & design within RecRoom, as well as how to create models of their projects.</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span> <span class='tagRef'>Micro</span>",
             prereq:"~",
             succeeding:"<span class='courseTitleRef'>PM Foundations</span>",
@@ -315,10 +315,10 @@ var jsonroot = {
         PM_Foundations:{
             title:"PM Foundations",
             code:"1PM",
-            desc:"~",
+            desc:"Project Management Foundations is a foundational course focused in building the essential skills necessary for project management. Some of said skills are: Planning & Roadmapping, Upkeep, and Team Management.<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Planning & Roadmapping</span>: Students learn the fundimentals of creating plans and designs for their projects.</li><li><span class='sectionMiniTitle'>Prototyping</span>: Students learn how to create prototypes and mockups to visualise their projects.</li><li><span class='sectionMiniTitle'>Solo vs. Teams</span>: Students learn the differences between working as a solo creator vs in a team of creators.</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span>",
             prereq:"~",
-            succeeding:"<span class='courseTitleRef'>PM for Project Management</span> or <span class='courseTitleRef'>PM for Design Engineering</span>",
+            succeeding:"<span class='courseTitleRef'>PM for Team Supervision</span> or <span class='courseTitleRef'>PM for Design Engineering</span>",
             accreditations:"~"
         }, 
         PM_for_Team_Supervision:{
