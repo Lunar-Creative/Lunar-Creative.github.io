@@ -20,7 +20,7 @@ DeLeDuck -- Litterally everything to do with code, graphics, and data.
     - Finalising Courses
     - Finalising Webpage Design
     - Etc.
-- 0.9.5: ~(Current)~
+- 0.9.5: <sub>(Current)</sub>
     - Content Creation Category Disabled
 - 0.9.9:
     - Final Pre-launch Patches
