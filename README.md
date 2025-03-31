@@ -13,17 +13,17 @@ DeLeDuck -- Litterally everything to do with code, graphics, and data.
 
 ### Update Log:
 - Pre-0.9:
- - Foundations, Webpage Settup  
- - Course Planning  
- - Etc.  
+    - Foundations, Webpage Settup  
+    - Course Planning  
+    - Etc.  
 - 0.9:
- - Finalising Courses
- - Finalising Webpage Design
- - Etc.
+    - Finalising Courses
+    - Finalising Webpage Design
+    - Etc.
 - 0.9.5: ~(Current)~
- - Content Creation Category Disabled
+    - Content Creation Category Disabled
 - 0.9.9:
- - Final Pre-launch Patches
+    - Final Pre-launch Patches
 - 1.0:
- - Launch!  
- - Student & Educator data now private  
+    - Launch!  
+    - Student & Educator data now private  
