@@ -24,7 +24,9 @@ DeLeDuck -- Litterally everything to do with code, graphics, and data.
     - Content Creation Category Disabled
 - 0.9.9:
     - Final Pre-launch Patches
-    - Better mobile UI
+<<<<<<< HEAD
+    - Better mobile interface
+>>>>>>> 4c5e5c6cefc337e459e95834b701225d83a82998
 - 1.0:
     - Launch!  
     - Student & Educator data now private  

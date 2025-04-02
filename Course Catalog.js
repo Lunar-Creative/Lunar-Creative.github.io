@@ -16,7 +16,7 @@ var jsonroot = {
         "Circuits 112: RRStudio A",
         "Circuits 113: RRStudio B",
         "Circuits 121: Niche Applications",
-        "Circuits 122: Mass Curcuitry",
+        "Circuits 122: Mass Circuitry",
         "Rooms 101: Basic Settup",
         "Rooms 102: Roles",
         "Rooms 103: Settings",
@@ -335,7 +335,7 @@ var jsonroot = {
         PM_for_Design_Engineering:{
             title:"PM for Design Engineering",
             code:"2bPM",
-            desc:"~",
+            desc:"Project MManagement for Design Engineering is a course focused in  teaching students how to create various different models, roadmapps, building-blocks, and blueprints for their projects! Students will learn the more advanced techniques in creating project plans, including basic presentation, makeing students quite well-rounded in project management.<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Blueprinting</span>: students learn how to create blueprints for projects both before and durring construction.</li><li><span class='sectionMiniTitle'>Roadmapping & Presentaation</span>: Students learn how to create roadmaps and publicly presentable plans for their projects</li><li><span class='sectionMiniTitle'>Blueprinting Design</span>: Students learn how to create blueprints and outlines for their projects</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span>",
             prereq:"<span class='courseTitleRef'>PM Foundations</span>",
             succeeding:"<span class='courseTitleRef'>PM Expertise</span> or <span class='courseTitleRef'>Post-PM</span>",
@@ -344,7 +344,7 @@ var jsonroot = {
         PM_Expertise:{
             title:"PM Expertise",
             code:"3aPM",
-            desc:"~",
+            desc:"Project Management Expertise is the finalising course for the project amanagement category, giving students a well-rounded look at all previous courses, as well as giving them a look into the more advanced tchniques and skills!<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Prototype Engineering</span>: Students build protypes of their projects and use them to present their projects</li><li><span class='sectionMiniTitle'>Teams</span>: Students will work in teams to create a course-designated project</li><li><span class='sectionMiniTitle'>Blueprinting</span>: Students build blueprints to build off for their projects</li><li><span class='sectionMiniTitle'>Final Project</span>: Students use the skills they have learned in previous and current courses to create their final project, either in teams or solo</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span>",
             prereq:"<span class='courseTitleRef'>PM for Project Management</span> or <span class='courseTitleRef'>PM for Design Engineering</span>",
             succeeding:"~",
@@ -353,7 +353,7 @@ var jsonroot = {
         Post_PM:{
             title:"Post-PM",
             code:"3bPM",
-            desc:"~",
+            desc:"Post Project Management is a post-final course focused in getting students ready for working the the project management field, with events such as team competitions, design presentations, and possible team shadowing.<ul class='miniTitleList'><li><span class='sectionMiniTitle'>Workplace Readyness</span>: Students learn basic skills to prepare them for work in RecRoom</li><li><span class='sectionMiniTitle'>Teaching</span>: Qualified students may opt to take extra, smaller, lessons in order to become teaching certified. LunarCreative may offer a position to those who do.</li></ul>",
             categ:"<span class='type-tagRef'>Loose</span> <span class='sect-tagRef'>Project Management</span>",
             prereq:"<span class='courseTitleRef'>PM for Project Management</span> or <span class='courseTitleRef'>PM for Design Engineering</span>",
             succeeding:"~",
@@ -362,17 +362,17 @@ var jsonroot = {
         Accessibility_and_Inclusivity:{
             title:"Accessibility & Inclusivity",
             code:"01OT",
-            desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            desc:"Accessibility & Inclusivity is a course where students from all categories learn to create safe invironments for all. Students achieve this by including accessibilty features into their work such as teleport-friendly maps, <s>font readablility for graphic design</s>, or including safe spaces in your plans. When courses for A&I are offered, it will state what strand it focuses on (if applicable), ex: Accessibility & Inclusivity (MA).",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span> <span class='tagRef'>Project Management</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"<span class='accreditationsRef'>Accessibility & Inclusivity Specialist</span>"
         },
-        CV2_Curcuitry: {
+        CV2_Circuitry: {
             title:"CV2 Circuitry",
             code:"02OT",
-            desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            desc:"CV2 Circuitry is a course focused on the application of CV2 to builds; including animations, interactivity, and specialised features. Students will get hands-on work by creating their own basic systems, then moving on to more advanced networks. Some of the projects a student could create in class include: button mashing, role assignment, and PvP with custom weapons.",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"<span class='accreditationsRef'>CV2 Specialist</span>"
@@ -380,7 +380,7 @@ var jsonroot = {
         Creative_Teams:{
             title:"Creative Teams",
             code:"03OT",
-            desc:"~",
+            desc:"Creative Teams is the course that gets students engaged as a team when creating, allowing students to build their own RecRoom teams, and ,together, make a project. Popular RR teams like Three of a Kind and Ink Overflow didn't start where they are now, maybe your team could be the next big thing.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -389,8 +389,8 @@ var jsonroot = {
         Dorm_Personalisation: {
             title:"Dorm Personalisation",
             code:"04OT",
-            desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            desc:"Dorm Personalisation is a course that teaches students how to create their own dorms, include features, and memorabilia. If you've never touched a makerpen, or even already made your dorm, there are still things to learn in this all-round course.",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"~"
@@ -398,7 +398,7 @@ var jsonroot = {
         Finding_your_Style: {
             title:"Finding your Style",
             code:"05OT",
-            desc:"~",
+            desc:"BETA COURSE! This course is still in closed-beta, students may not take it without special approval. | Finding your Style is a small course allowing students to find their building/creating style, be it slow-and-steady, maticulus-planing, or any other style.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -408,7 +408,7 @@ var jsonroot = {
             title:"Interactive Game Design",
             code:"06OT",
             desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"<span class='accreditationsRef'>Interactive Game Design Specialist</span>"
@@ -417,7 +417,7 @@ var jsonroot = {
             title:"RR Art",
             code:"07OT",
             desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"~"
@@ -435,7 +435,7 @@ var jsonroot = {
             title:"Story & Game Design",
             code:"09OT",
             desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"<span class='accreditationsRef'>Story & Game Design Specialist</span>"
@@ -444,7 +444,7 @@ var jsonroot = {
             title:"Working in RR",
             code:"10OT",
             desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span> <span class='tagRef'>Project Management</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"~"
@@ -781,13 +781,13 @@ document.getElementById("01OTprereq").innerHTML = jsonroot.courseDetailsLoose.Ac
 document.getElementById("01OTsucceeding").innerHTML = jsonroot.courseDetailsLoose.Accessibility_and_Inclusivity.succeeding;
 document.getElementById("01OTaccreditations").innerHTML = jsonroot.courseDetailsLoose.Accessibility_and_Inclusivity.accreditations;
 
-document.getElementById("02OTtitle").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.title;
-document.getElementById("02OTcode").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.code;
-document.getElementById("02OTdesc").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.desc;
-document.getElementById("02OTcateg").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.categ;
-document.getElementById("02OTprereq").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.prereq;
-document.getElementById("02OTsucceeding").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.succeeding;
-document.getElementById("02OTaccreditations").innerHTML = jsonroot.courseDetailsLoose.CV2_Curcuitry.accreditations;
+document.getElementById("02OTtitle").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.title;
+document.getElementById("02OTcode").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.code;
+document.getElementById("02OTdesc").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.desc;
+document.getElementById("02OTcateg").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.categ;
+document.getElementById("02OTprereq").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.prereq;
+document.getElementById("02OTsucceeding").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.succeeding;
+document.getElementById("02OTaccreditations").innerHTML = jsonroot.courseDetailsLoose.CV2_Circuitry.accreditations;
 
 document.getElementById("03OTtitle").innerHTML = jsonroot.courseDetailsLoose.Creative_Teams.title;
 document.getElementById("03OTcode").innerHTML = jsonroot.courseDetailsLoose.Creative_Teams.code;
