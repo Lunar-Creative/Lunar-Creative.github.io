@@ -407,7 +407,7 @@ var jsonroot = {
         Interactive_Game_Design: {
             title:"Interactive Game Design",
             code:"06OT",
-            desc:"~",
+            desc:"Interactive Game Design is the course to teach students CV1 & CV2 to create interactive elements in their games! Students can make many different elements such as: doors, weapons, text, UI, levels, and many more! All <em>good</em> games require interactivity between the game and the player, this course will teach students how to make said games!",
             categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
@@ -416,7 +416,7 @@ var jsonroot = {
         RR_Art: {
             title:"RR Art",
             code:"07OT",
-            desc:"~",
+            desc:"RR Art is a micro course that teaches students different mediums that they can create in for art in RecRoom. The course also teaches some techniques for each medium.",
             categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span>",
             prereq:"~",
             succeeding:"~",
@@ -425,8 +425,8 @@ var jsonroot = {
         Rooms_and_Subrooms: {
             title:"Rooms & Subrooms",
             code:"08OT",
-            desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span>",
+            desc:"Rooms & Subrooms is a micro course that quickly teaches students how to create rooms and subrooms, how to interlink rooms, and the new features in ^room 2.0 vs ^rooms 1.0!",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Micro</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"~"
@@ -434,7 +434,7 @@ var jsonroot = {
         Story_and_Game_Design: {
             title:"Story & Game Design",
             code:"09OT",
-            desc:"~",
+            desc:"Story & Game Design is the course to learn how to create great stories and games in RecRoom! Students learn how to use film techniques and skills to create more interesting stories and characters. Some techniques include: cliffhangers, conflict, and more!",
             categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span>",
             prereq:"~",
             succeeding:"~",
@@ -443,8 +443,8 @@ var jsonroot = {
         Working_in_RR: {
             title:"Working in RR",
             code:"10OT",
-            desc:"~",
-            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span> <span class='tagRef'>Project Management</span>",
+            desc:"Working in RR is a micro course that teaches students the generalised skills necessary to work in RecRoom.",
+            categ:"<span class='type-tagRef'>Loose</span> <span class='tagRef'>Makerpen & Animation</span> <span class='tagRef'><s>Content Creation</s></span> <span class='tagRef'>Project Management</span> <span class='tagRef'>Micro</span>",
             prereq:"~",
             succeeding:"~",
             accreditations:"~"
@@ -452,7 +452,7 @@ var jsonroot = {
         Genre_Animatics: {
             title:"Genre: Animatics",
             code:"11OT",
-            desc:"~",
+            desc:"Genre: Animatics is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -461,7 +461,7 @@ var jsonroot = {
         Genre_Horror: {
             title:"Genre: Horror",
             code:"12OT",
-            desc:"~",
+            desc:"Genre: Horror is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -470,7 +470,7 @@ var jsonroot = {
         Genre_Militaries: {
             title:"Genre: Militaries",
             code:"13OT",
-            desc:"~",
+            desc:"Genre: Militaries is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -479,7 +479,7 @@ var jsonroot = {
         Genre_Puzzles:{
             title:"Genre: Puzzles",
             code:"14OT",
-            desc:"~",
+            desc:"Genre: Puzzels is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -488,7 +488,7 @@ var jsonroot = {
         Genre_Quests:{
             title:"Genre: Quests",
             code:"15OT",
-            desc:"~",
+            desc:"Genre: Quests is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
@@ -497,7 +497,7 @@ var jsonroot = {
         Genre_Sports:{
             title:"Genre: Sports",
             code:"16OT",
-            desc:"~",
+            desc:"Genre: Sports is one of the genre style courses that teaches students how to create this genre of RecRoom content, via hands-on room creation and tutorials.",
             categ:"<span class='type-tagRef'>Loose</span>",
             prereq:"~",
             succeeding:"~",
